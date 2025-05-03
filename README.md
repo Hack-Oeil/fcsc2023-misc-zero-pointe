@@ -21,12 +21,12 @@ Origine : [Zéro Pointé](https://hackropole.fr/fr/challenges/misc/fcsc2023-misc
 > http://localhost
 
 #### tentez 
-> nc zero-pointe.cyrhades.fr:4000
+> nc zero-pointe.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
