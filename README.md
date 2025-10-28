@@ -9,7 +9,7 @@ Fichiers:
 - [zero-pointe.c](zero-pointe.c)
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 
 Origine : [Zéro Pointé](https://hackropole.fr/fr/challenges/misc/fcsc2023-misc-zero-pointe/)
